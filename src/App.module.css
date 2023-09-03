@@ -1,0 +1,56 @@
+.header {
+  text-align: center;
+}
+
+.span {
+  background-color: Grey;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20 px;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: left;
+  padding-right: 50px;
+}
+
+.list:hover {
+  background-color: yellowgreen;
+}
+
+.image:hover {
+  opacity: 0.5;
+}
+
+.mainbody {
+  padding-top: 7rem;
+  text-align: left;
+  background-image: url(" https://images-cdn.welcomesoftware.com/Zz03ZTY0Mzk3MDhlNDgxMWViYmRmNWY3MjZjM2QxZTdiZg==");
+}
+
+.foot {
+  padding-top: 25%;
+  text-align: center;
+}
+
+.footertwo {
+  font-family: cursive;
+}
+
+.side {
+  float: right;
+  padding-top: 20px;
+}
+
+.side:hover {
+  text-shadow: 0 0 3px #ff00f2, 0 0 5px #00ffb7;
+}
+
+.weatherimage:hover {
+  opacity: 0.5;
+}
